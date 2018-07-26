@@ -1,0 +1,8 @@
+c:\users\neptunedevelopmentx\source\repos\NameInquiryTest\NameInquiryTest\bin\Debug\NameInquiryTest.exe.config
+c:\users\neptunedevelopmentx\source\repos\NameInquiryTest\NameInquiryTest\bin\Debug\NameInquiryTest.exe
+c:\users\neptunedevelopmentx\source\repos\NameInquiryTest\NameInquiryTest\bin\Debug\NameInquiryTest.pdb
+c:\users\neptunedevelopmentx\source\repos\NameInquiryTest\NameInquiryTest\bin\Debug\Newtonsoft.Json.dll
+c:\users\neptunedevelopmentx\source\repos\NameInquiryTest\NameInquiryTest\bin\Debug\Newtonsoft.Json.xml
+c:\users\neptunedevelopmentx\source\repos\NameInquiryTest\NameInquiryTest\obj\Debug\NameInquiryTest.exe
+c:\users\neptunedevelopmentx\source\repos\NameInquiryTest\NameInquiryTest\obj\Debug\NameInquiryTest.pdb
+C:\Users\NEPTUNEDEVELOPMENTX\source\repos\NameInquiryTest\NameInquiryTest\obj\Debug\NameInquiryTest.csprojResolveAssemblyReference.cache
